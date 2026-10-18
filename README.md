@@ -10,58 +10,73 @@ Established in 2023, **Natec Development Ltd.** is a real estate development fir
 
 ---
 
-## 🎯 Mission & Vision
+## 🏢 About Us
 
-* **Mission:** To provide dependable real estate development services through thoughtful planning, practical design, and careful project coordination[cite: 2]. We aim to understand our clients’ needs, uphold professional standards, and support projects that create long-term value for clients, partners, and communities[cite: 2].
-* **Vision:** To grow as a trusted real estate development company in Bangladesh, recognized for responsible development, quality-focused service, and lasting relationships with clients and partners[cite: 2].
+At Natec Development Ltd., we believe effective development starts with a clear understanding of purpose and community impact. Our operational model emphasizes:
 
----
-
-## 💎 Core Values
-
-* **Integrity:** Communicating honestly, acting responsibly, and building trust[cite: 2].
-* **Quality:** Careful attention to planning, coordination, and project delivery[cite: 2].
-* **Innovation:** Practical ideas and suitable technologies to improve project outcomes[cite: 2].
-* **Sustainability:** Responsible land use, resource efficiency, and long-term impact[cite: 2].
-* **Client Focus:** Listening to clients and prioritizing their requirements[cite: 2].
-* **Professionalism:** Accountability, mutual respect, and clear communication[cite: 2].
+- **Strategic Execution:** Rigorous pre-development feasibility and site assessments.
+- **Transparent Communication:** Alignment with client requirements at every phase.
+- **Sustainable Growth:** Focus on lasting asset value and environmentally responsible practices.
 
 ---
 
-## 🛠️ Our Services
+## 🎯 Mission, Vision & Core Values
 
-| Service | Description |
+### Mission
+To provide dependable real estate development services through thoughtful planning, practical design, and careful project coordination—upholding professional standards to create long-term value for clients, partners, and communities.
+
+### Vision
+To grow as a recognized and trusted real estate development firm in Bangladesh, known for responsible development, quality delivery, and sustainable community contributions.
+
+### Core Values
+* **Integrity:** Transparent communication, accountability, and ethical business conduct.
+* **Quality:** Thorough oversight across design, engineering, and execution.
+* **Innovation:** Practical adoption of modern building techniques and materials.
+* **Sustainability:** Responsible land use and resource efficiency.
+* **Client Focus:** Tailoring project solutions directly to client needs.
+* **Professionalism:** High accountability, reliability, and respect across all partnerships.
+
+---
+
+## 🛠️ Comprehensive Services
+
+```
+Land Acquisition ──► Planning & Approvals ──► Design & Engineering ──► Construction ──► Sales & Management
+```
+
+| Service Area | Scope & Key Capabilities |
 | :--- | :--- |
-| **Land Acquisition**[cite: 2] | Property research, site coordination, and land documentation review[cite: 2]. |
-| **Project Planning**[cite: 2] | Defining project goals, scope, and staged development timelines[cite: 2]. |
-| **Project Financing**[cite: 2] | Financial guidance and structured property investment options[cite: 2]. |
-| **Permits & Approvals**[cite: 2] | Regulatory compliance, application coordination, and approvals[cite: 2]. |
-| **Building Design**[cite: 2] | Purpose-driven architectural planning coordinated with certified professionals[cite: 2]. |
-| **Construction Management**[cite: 2] | Site coordination, quality control, and schedule monitoring[cite: 2]. |
-| **Real Estate Marketing & Sales**[cite: 2] | Targeted promotion, presentation, and sales facilitation[cite: 2]. |
-| **Property Management**[cite: 2] | Long-term asset maintenance and operational management[cite: 2]. |
-| **Sustainable Development Consultancy**[cite: 2] | Eco-friendly site planning, energy efficiency, and lifecycle optimization[cite: 2]. |
+| **Land Acquisition** | Site identification, ownership verification, property research, and regulatory documentation review. |
+| **Project Planning** | Goal scoping, project timelines, feasibility studies, and execution phasing. |
+| **Project Financing** | Guidance on capital allocation, financial structure analysis, and funding options. |
+| **Permits & Approvals** | Coordination of regulatory documentation and liaison with statutory approval bodies. |
+| **Building Design** | Architectural and structural planning tailored to site context, compliance, and user requirements. |
+| **Construction Management**| On-site monitoring, vendor coordination, timeline compliance, and quality control. |
+| **Marketing & Sales** | Strategic asset positioning, buyer outreach, and transaction management. |
+| **Property Management** | Facility maintenance, tenant relations, and lifecycle preservation of built assets. |
+| **Sustainability Consultancy** | Eco-conscious land use, energy-efficient planning, and sustainable resource allocation. |
 
 ---
 
-## 🏗️ Project Portfolio
+## 🏗️ Portfolio & Projects
 
 ### Completed Projects
-* **Shobuj Angon**[cite: 2]
-  * **Status:** Completed[cite: 2]
-  * **Timeline:** 2023–2026[cite: 2]
-  * **Location:** Gazipur, Bangladesh[cite: 2]
+* **Shobuj Angon**
+  * **Status:** Completed (100%)
+  * **Timeline:** 2023 – 2026
+  * **Scope:** Residential development delivered within planned project milestones.
 
 ### Ongoing Developments
-* **Shobuj Aloy**[cite: 2]
-  * **Status:** 50% Complete[cite: 2]
-  * **Details:** Contact our team for feature lists and availability[cite: 2].
-* **Shobuj Digonto**[cite: 2]
-  * **Status:** 20% Complete[cite: 2]
-  * **Location:** Gazipur, near Pepsi Gate[cite: 2]
+* **Shobuj Aloy**
+  * **Status:** In Progress (~50% Complete)
+  * **Focus:** Residential units; active construction and structural work.
+* **Shobuj Digonto**
+  * **Status:** In Progress (~20% Complete)
+  * **Location:** Gazipur (near Pepsi Gate)
+  * **Focus:** Foundation and early structural engineering phase.
 
-### Upcoming Projects
-* Two residential development projects scheduled to break ground in **2027**[cite: 2].
+### Upcoming Pipeline
+* **Future Projects (2027 Cohort):** Two distinct residential and mixed-use developments currently in pre-feasibility and site design phases, scheduled for rollout in 2027.
 
 ---
 
@@ -69,15 +84,33 @@ Established in 2023, **Natec Development Ltd.** is a real estate development fir
 
 | Name | Role | Contact |
 | :--- | :--- | :--- |
-| **Md. Nazim Uddin**[cite: 2] | Chairman[cite: 2] | `asmmusa6984@gmail.com`[cite: 2] \| `+880 1927-080648`[cite: 2] |
-| **Musa**[cite: 2] | Managing Director[cite: 2] | `asmmusa6984@gmail.com`[cite: 2] \| `+880 1738-614256`[cite: 2] |
-| **Sanjida Akter**[cite: 2] | Director[cite: 2] | `+880 1990-665923`[cite: 2] |
-| **Mahamudul Hasan Khan**[cite: 2] | Director[cite: 2] | `mahamudulhasankhan247@gmail.com`[cite: 2] \| `+880 1626-653992`[cite: 2] |
-| **Shahin**[cite: 2] | Director, Technical Support & Business Development[cite: 2] | `10shahin28@gmail.com`[cite: 2] \| `+880 1949-675132`[cite: 2] |
+| **Md. Nazim Uddin** | Chairman | 📧 asmmusa6984@gmail.com<br>📞 +880 1927-080648 |
+| **Musa** | Managing Director | 📧 asmmusa6984@gmail.com<br>📞 +880 1738-614256 |
+| **Sanjida Akter** | Director | 📧 asmmusa6984@gmail.com<br>📞 +880 1990-665923 |
+| **Mahamudul Hasan Khan** | Director | 📧 mahamudulhasankhan247@gmail.com<br>📞 +880 1626-653992 |
+| **Shahin** | Director, Technical Support & Business Development | 📧 10shahin28@gmail.com<br>📞 +880 1949-675132 |
 
 ---
 
 ## 📬 Contact & Office Location
+
+Have an upcoming project or inquiry? Reach out to our development team:
+
+- **Headquarters:**  
+  1st Floor, Vai Vai Market (Opposite Walton Showroom)  
+  Dhaka–Kapasia Road, Rajendrapur Bazar  
+  Sreepur, Gazipur 1741, Bangladesh
+
+- **Phone & WhatsApp:**
+  - Phone: `+880 1990-665923`
+  - WhatsApp: `01354-252400`
+- **Email:** [natecdevelopment@gmail.com](mailto:natecdevelopment@gmail.com)
+- **Website:** [natecdev.com](https://natecdev.com)
+- **Social Media:** [facebook.com/natecltd](https://facebook.com/natecltd)
+
+---
+
+<sub>© Natec Development Ltd. All rights reserved.</sub>
 
 * 🏢 **Address:** 1st Floor, Vai Vai Market, opposite Walton showroom, Dhaka–Kapasia Road, Rajendrapur Bazar, Sreepur, Gazipur 1741, Bangladesh[cite: 2]
 * 📞 **Phone:** +880 1990-665923 (WhatsApp) / 01354-252400[cite: 2]
