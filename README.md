@@ -4,7 +4,9 @@
 [![Facebook](https://img.shields.io/badge/Facebook-natecltd-1877F2?logo=facebook&logoColor=white)](https://facebook.com/natecltd)
 [![Email](https://img.shields.io/badge/Email-natecdevelopment%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:natecdevelopment@gmail.com)
 
-Established in 2023, **Natec Development Ltd.** is a real estate development company based in Sreepur, Gazipur, Bangladesh[cite: 2]. We support clients through key stages of property development, from land acquisition and project planning to building design, construction management, marketing, sales, and property management[cite: 2].
+> **Building sustainable value through thoughtful planning, practical design, and disciplined project coordination.**
+
+Established in 2023, **Natec Development Ltd.** is a real estate development firm based in Sreepur, Gazipur, Bangladesh. We guide clients through the entire lifecycle of property development—from initial land acquisition and planning to architectural design, construction oversight, marketing, and long-term asset management.
 
 ---
 
