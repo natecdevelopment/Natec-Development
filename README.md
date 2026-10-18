@@ -1,4 +1,3 @@
-```markdown
 # Natec Development Ltd.
 
 [![Website](https://img.shields.io/badge/Website-natecdev.com-blue)](https://natecdev.com)
@@ -83,5 +82,3 @@ Established in 2023, **Natec Development Ltd.** is a real estate development com
 * ✉️ **Email:** natecdevelopment@gmail.com[cite: 2]
 * 🌐 **Website:** [natecdev.com](https://natecdev.com)[cite: 2]
 * 📱 **Facebook:** [facebook.com/natecltd](https://facebook.com/natecltd)[cite: 2]
-
-```
