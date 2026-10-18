@@ -115,5 +115,5 @@ Have an upcoming project or inquiry? Reach out to our development team:
 * 🏢 **Address:** 1st Floor, Vai Vai Market, opposite Walton showroom, Dhaka–Kapasia Road, Rajendrapur Bazar, Sreepur, Gazipur 1741, Bangladesh
 * 📞 **Phone:** +880 1990-665923 (WhatsApp) / 01354-252400
 * ✉️ **Email:** natecdevelopment@gmail.com
-* 🌐 **Website:** [natecdev.com](https://natecdev.com)[cite: 2]
-* 📱 **Facebook:** [facebook.com/natecltd](https://facebook.com/natecltd)[cite: 2]
+* 🌐 **Website:** [natecdev.com](https://natecdev.com)
+* 📱 **Facebook:** [facebook.com/natecltd](https://facebook.com/natecltd)
